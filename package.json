@@ -1,0 +1,14 @@
+{
+	"name": "netstack",
+	"license": "BSL-1.0",
+	"description": "A Socket Abstraction Layer.",
+	"copyright": "Copyright © 2014, Felix 'Zoadian' Hufnagel",
+	"authors": ["Felix 'Zoadian' Hufnagel"],
+	
+	"targetPath": "bin",
+    "targetType": "library",
+	
+	"dependencies": {
+		"cerealed": ">=0.2.0"
+	}
+}
